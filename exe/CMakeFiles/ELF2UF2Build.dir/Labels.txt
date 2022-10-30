@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/CMakeFiles/ELF2UF2Build
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/CMakeFiles/ELF2UF2Build.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/CMakeFiles/ELF2UF2Build-complete.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+C:/msys64/home/ebadger/EB6502/Badger6502Pico/exe/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

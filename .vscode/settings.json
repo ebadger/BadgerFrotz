@@ -1,0 +1,32 @@
+{
+    
+    "cmake.mingwSearchDirs": [
+        "C:\\msys64\\mingw64\\bin"
+    ],
+    "cmake.generator": "MinGW Makefiles",
+    "environmentVariables": {
+            "PICO_SDK_PATH": "c:/msys64/home/ebadger/pico-sdk"
+    }
+
+    // These settings tweaks to the cmake plugin will ensure
+    // that you debug using cortex-debug instead of trying to launch
+    // a Pico binary on the host
+    "cmake.statusbar.advanced": {
+        "debug": {
+            "visibility": "hidden"
+        },
+        "launch": {
+            "visibility": "hidden"
+        },
+        "build": {
+            "visibility": "default"
+        },
+        "buildTarget": {
+            "visibility": "hidden"
+        }
+
+    },
+    "cmake.buildBeforeRun": true,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cortex-debug.openocdPath": "c:/msys64/home/ebadger/openocd/src/openocd.exe"
+}
