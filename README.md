@@ -20,9 +20,13 @@ It should be failry easy to adapt the code to custom hardware, or to a Pimoroni 
 If you have an ebadger LodeRunner appliance, it will run without any change on that device.
 Send email to eric.badger@gmail.com for more info on the hardware if you're interested in buying one to support this project.
 
+![FVkIgqnUYAAFe1m](https://user-images.githubusercontent.com/7229532/198905597-a85daf7f-2c76-4f9b-9c10-262700c0f92c.jpg)
+![FVkI9tuVUAIgpaC](https://user-images.githubusercontent.com/7229532/198905605-ced0b7f5-948c-4844-87c2-9cd39e94daff.jpg)
+
 LodeRunner hardware demonstrated here:  
 
 https://blog.pishop.co.za/raspberry-pi-pico-emulates-6502-computer-and-runs-loderunner/
+
 
 and here
 
