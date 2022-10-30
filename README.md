@@ -34,3 +34,7 @@ https://twitter.com/ebad73/status/1548135753720348673?s=20&t=SdgSOiQ7SnGn88zoFUk
 
 If you create a derivative build, please share photos!
 Please feel free to contribute changes
+
+There are various instructions on the web on how to set up a build environment in Windows with VSCode to build C++ for the Pi Pico
+For example:
+https://projects-raspberry.com/setting-up-the-raspberry-pi-pico-for-c-c-development-on-windows/
