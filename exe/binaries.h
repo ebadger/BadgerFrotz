@@ -2,7 +2,9 @@
 
 #include "scancodes.h"
 #include "advent.h"
-//#include "zork.h"
+#include "zork1.h"
+#include "zork2.h"
+#include "zork3.h"
 
 static const struct embedded_file {
   const char *name;
@@ -11,7 +13,9 @@ static const struct embedded_file {
   const char *description;
 } embedded_files[] = {
    {"adventure",     adventure,      sizeof(adventure) - 1,      "Colossal Cave Adventure (1976 William Crowther, Don Woods)"},
-// {"Zork",          zork,           sizeof(zork) - 1,           "Zork"},
+   {"Zork",          zork1,           sizeof(zork1) - 1,           "Zork I (1977 Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling)"},
+   {"Zork II",       zork2,           sizeof(zork2) - 1,           "Zork II (1981 Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling)"},
+   {"Zork III",      zork3,           sizeof(zork3) - 1,           "Zork III (1982 Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling)"},
 };
 
 static const uint8_t _scancode_map [] = {

@@ -1,12 +1,9 @@
 {
     
-    "cmake.mingwSearchDirs": [
-        "C:\\msys64\\mingw64\\bin"
-    ],
-    "cmake.generator": "MinGW Makefiles",
-    "environmentVariables": {
-            "PICO_SDK_PATH": "c:/msys64/home/ebadger/pico-sdk"
-    }
+    "cmake.generator": "Ninja",
+    "cmake.configureEnvironment": {
+        "PICO_SDK_PATH": "C:/Program Files/Raspberry Pi/Pico SDK v1.5.0/pico-sdk"
+    },
 
     // These settings tweaks to the cmake plugin will ensure
     // that you debug using cortex-debug instead of trying to launch
