@@ -18,6 +18,7 @@ DMA can't be running.  The project demonstrates how to write to flash and then r
 It should be failry easy to adapt the code to custom hardware, or to a Pimoroni VGA board, etc...
 
 If you have an ebadger LodeRunner appliance, it will run without any change on that device.
+I have a bunch of PCBs that need a Pico, a VGA port and a PS/2 port soldered.
 Send email to eric.badger@gmail.com for more info on the hardware if you're interested in buying one to support this project.
 
 ![FVkIgqnUYAAFe1m](https://user-images.githubusercontent.com/7229532/198905597-a85daf7f-2c76-4f9b-9c10-262700c0f92c.jpg)
